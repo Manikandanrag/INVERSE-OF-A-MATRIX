@@ -18,6 +18,13 @@ Step 4:
 End the program
 ## Program:
 ```
+#Program to find the inverse of a matrix.
+#Developed by: Manikandan R
+#RegisterNumber:23004754
+import numpy as np
+a=[[1,0,3],[-1,2,-2],[2,3,-1]]
+c=np.linalg.inv(a)
+print(c)
 
 ```
 
